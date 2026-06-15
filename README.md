@@ -3,7 +3,7 @@
 
 من در نقطه تلاقی فناوری اطلاعات و تجارت آنلاین فعالیت می‌کنم. تمرکز من بر مهندسی زیرساخت‌های هوشمند، اتوماسیون فرآیندها و بهینه‌سازی داده‌محور مسیر رشد کسب‌وکارها در دنیای دیجیتال است تا ارزش‌هایی ماندگار و سودآور خلق شود.
 
-- 🚀 **تمرکز فعلی:** طراحی زیرساخت‌های تبلیغات، توسعه فروش آنلاین و مهندسی رشد دیجیتال (رشدپیشه).
+- 🚀 **تمرکز فعلی:** طراحی زیرساخت‌های تبلیغات، توسعه فروش آنلاین و مهندسی رشد دیجیتال (<a href="https://roshdpishe.ir">رشدپیشه</a>).
 - ⚙️ **علایق فنی:** اتوماسیون کلاینت‌ها (تلگرام و اینستاگرام)، ابزارهای تحت شبکه، اسکنرهای غیرمتمرکز و اسکریپت‌نویسی سیستم.
 - 🧠 **خارج از کد:** مطالعه در زمینه‌های روانشناسی تجاری، زیست‌شناسی، تاریخ و بازی شطرنج.
 
@@ -35,7 +35,7 @@
 
 I operate at the intersection of Information Technology and online commerce. My work focuses on engineering smart digital infrastructures, workflow automation, and leveraging data to drive sustainable, profitable business growth.
 
-- 🚀 **Current Focus:** Growth marketing engineering, optimizing sales funnels, and digital scale-up strategies (RoshdPishe).
+- 🚀 **Current Focus:** Growth marketing engineering, optimizing sales funnels, and digital scale-up strategies (<a href="https://roshdpishe.ir">RoshdPishe</a>).
 - ⚙️ **Technical Interests:** API & platform automation (Telegram/Instagram), decentralized network utilities, and custom scripting.
 - 🧠 **Beyond Code:** Deeply curious about behavioral psychology, commerce, biology, history, and chess.
 
