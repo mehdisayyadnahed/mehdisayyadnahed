@@ -1,6 +1,5 @@
-### Hi there 👋
-🌱 I’m currently learning ...
-
+###
+Available to scale your business 🤝📈⤴️
 <!--
 **man-va-code/man-va-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
