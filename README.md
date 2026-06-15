@@ -1,72 +1,61 @@
-# 🚀 Greetings, I'm [نام تو]
-### Architect of Growth | Digital Business Engineer | Founder of **Roshdpisheh**
+# سلام، من مهدی صیاد هستم 👋
+### مهندس نرم‌افزار و رشد دیجیتال کسب‌و‌کار
+
+من در نقطه تلاقی فناوری اطلاعات و تجارت آنلاین فعالیت می‌کنم. تمرکز من بر مهندسی زیرساخت‌های هوشمند، اتوماسیون فرآیندها و بهینه‌سازی داده‌محور مسیر رشد کسب‌وکارها در دنیای دیجیتال است تا ارزش‌هایی ماندگار و سودآور خلق شود.
+
+- 🚀 **تمرکز فعلی:** طراحی زیرساخت‌های تبلیغات، توسعه فروش آنلاین و مهندسی رشد دیجیتال (رشدپیشه).
+- ⚙️ **علایق فنی:** اتوماسیون کلاینت‌ها (تلگرام و اینستاگرام)، ابزارهای تحت شبکه، اسکنرهای غیرمتمرکز و اسکریپت‌نویسی سیستم.
+- 🧠 **خارج از کد:** مطالعه در زمینه‌های روانشناسی تجاری، زیست‌شناسی، تاریخ و بازی شطرنج.
 
 ---
 
-### 🌐 The Vision: Roshdpisheh (رشدپیشه)
-I don't just build products; I engineer **sustainable growth systems**.  
-«رشدپیشه» برای من صرفاً یک اسم نیست؛ یک پارادایم است. تمرکز من بر **مهندسی توسعه کسب‌وکارها در فضای دیجیتال** با تکیه بر تحلیل داده، استراتژی محتوا و ساختارهای مقیاس‌پذیر (Scalable) است.
+### ابزارهای کلیدی و مهارت‌ها
+<p align="right">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
 
-- **Current Focus:** Decoding the success of top-tier entrepreneurs through analytical storytelling.
-- **Goal:** Bridging the gap between "Traditional Business Wisdom" and "Modern Digital Engineering."
+### راه‌های ارتباطی
+<p align="right">
+  <a href="mailto:MehdiSayyadNahed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/mehdisayyadnahed"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/mehdisayyadnahed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/mehdisayyadnahed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
----
-
-### 🛠 The Toolkit (Engineering & Strategy)
-
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Development** | [مثلاً: Python, JS, React, Go, Docker] |
-| **Growth Hacking** | Data Analysis, Funnel Engineering, SEO Systems |
-| **Media Engine** | Narrative Design, High-end Visual Storytelling, Content Strategy |
-| **Core Philosophy** | Systems Thinking, Reverse Engineering, Scalability |
-
----
-
-### 🎙 Content Narrative (The Signature)
-I believe every successful business has a hidden "Growth Blueprint." Through my platforms, I narrate the journey of Iranian and Global entrepreneurs with the **Roshdpisheh Signature**: 
-*   **Analysis over Emotion:** Moving beyond motivational clichés to structural insights.
-*   **Visual Precision:** Engineering the aesthetic of business storytelling.
+<br />
 
 ---
 
-### 📊 GitHub Stats & Contributions
+# Hi, I'm Mehdi Sayyad 👋
+### Software & Digital Business Growth Engineer
+
+I operate at the intersection of Information Technology and online commerce. My work focuses on engineering smart digital infrastructures, workflow automation, and leveraging data to drive sustainable, profitable business growth.
+
+- 🚀 **Current Focus:** Growth marketing engineering, optimizing sales funnels, and digital scale-up strategies (RoshdPishe).
+- ⚙️ **Technical Interests:** API & platform automation (Telegram/Instagram), decentralized network utilities, and custom scripting.
+- 🧠 **Beyond Code:** Deeply curious about behavioral psychology, commerce, biology, history, and chess.
+
+---
+
+### Core Tech Stack
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[نام_کاربری_گیت_هاب]&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[نام_کاربری_گیت_هاب]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="300"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
----
-
-### 🤝 Let's Connect & Engineer Growth
-Beyond the code, I'm always open to discussing business architectures, digital transformation, and strategic narratives.
-
-- 📸 **Instagram:** [لینک اینستاگرام رشدپیشه]
-- 📺 **YouTube:** [لینک یوتیوب رشدپیشه]
-- 🌐 **Web:** [آدرس وب‌سایت رشدپیشه]
-- 💼 **LinkedIn:** [لینک لینکدین شخصی]
-- ✉️ **Email:** [ایمیل سازمانی یا شخصی]
-
----
-<p align="center">
-  <i>"Growth is not an event; it's an engineered habit."</i> <br>
-  <b>— Roshdpisheh</b>
+### Let's Connect
+<p align="left">
+  <a href="mailto:MehdiSayyadNahed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/mehdisayyadnahed"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/mehdisayyadnahed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/mehdisayyadnahed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-
-###
-Available to scale your business 🤝📈⤴️
-<!--
-**man-va-code/man-va-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
