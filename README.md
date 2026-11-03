@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <!-- Header Banner (Green Terminal Theme) -->
+  <!-- Header Banner (Terminal Green Gradient) -->
   <a href="https://mehdisayyadnahed.ir">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F0D,40:064E3B,75:059669,100:10B981&height=220&section=header&text=Mehdi%20Sayyad&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Bridging%20Technology%20and%20Commerce&descAlignY=58&descSize=18&animation=fadeIn" alt="Mehdi Sayyad Header Banner" />
   </a>
@@ -26,8 +26,9 @@
   <!-- Badges -->
   <p>
     <a href="https://mehdisayyadnahed.ir"><img src="https://img.shields.io/badge/Website-mehdisayyadnahed.ir-10B981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0F0D" alt="Website" /></a>
-    <a href="https://t.me/mehdisayyadnahed"><img src="https://img.shields.io/badge/Telegram-Sayyad-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0F0D" alt="Telegram" /></a>
-    <a href="https://www.instagram.com/mehdisayyadnahed"><img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0F0D" alt="Instagram" /></a>
+    <a href="https://t.me/mehdisayyadnahed"><img src="https://img.shields.io/badge/Telegram-@mehdisayyadnahed-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0F0D" alt="Telegram" /></a>
+    <a href="https://www.instagram.com/mehdisayyadnahed"><img src="https://img.shields.io/badge/Instagram-@mehdisayyadnahed-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0F0D" alt="Instagram" /></a>
+    <a href="mailto:MehdiSayyadNahed@gmail.com"><img src="https://img.shields.io/badge/Email-MehdiSayyadNahed-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F0D" alt="Email" /></a>
     <a href="https://github.com/mehdisayyadnahed"><img src="https://komarev.com/ghpvc/?username=mehdisayyadnahed&style=for-the-badge&color=10B981&label=VIEWS&labelColor=0A0F0D" alt="Views" /></a>
   </p>
 
@@ -43,7 +44,7 @@
 
 <div align="center">
 
-[About](#about) · [Stack](#stack) · [Journey](#journey) · [Projects](#project-matrix) · [Key Activities](#key-activities) · [Metrics](#github-metrics) · [Contact](#contact)
+[About](#about) · [Academic](#academic-journey) · [Stack](#stack--tools) · [Journey](#journey) · [Projects](#project-matrix-12-shipped-projects) · [Key Activities](#key-activities) · [Testimonials](#partnership-trust) · [Metrics](#github-metrics) · [Contact](#contact)
 
 </div>
 
@@ -51,15 +52,15 @@
 
 > *Available to scale your business.*
 
-I help businesses be **seen more — and seen better** — in the digital ecosystem. With **7+ years** across administrative, technical, and commercial environments, I operate where **computers meet commerce**: architecting sales & advertising infrastructure, data processing, and engineering resilient digital tools.
+I help businesses gain **more and better visibility** in the digital landscape. With **7+ years** of hands-on experience across administrative, academic, and commercial environments, I sit right where **computers meet commerce**: engineering marketing and sales infrastructures, analyzing data, automating workflows, and building resilient software tools to optimize profitability.
 
 ```yaml
-name:        Mehdi Sayyad (مهدی صیاد)
+name:        Mehdi Sayyad (مهدی صیاد ناهد)
 role:        Digital Growth Consultant · Software Engineer
+venture:     Founder @ RoshdPishe (رشدپیشه)
 location:    Gilan, Iran (Working Remotely Worldwide)
-focus:       [Automation, SEO & Growth, E-commerce Systems, Resilient Networks]
-education:   B.Sc. Software Engineering · A.Sc. Software Engineering
-philosophy:  "I prioritize quality over quantity to build lasting value."
+focus:       [Business Automation, SEO & Ads, Resilient Networks, Web & Android Architecture]
+philosophy:  "In today's fast-paced world, I prioritize quality over quantity to build lasting value."
 ```
 
 <table>
@@ -67,7 +68,7 @@ philosophy:  "I prioritize quality over quantity to build lasting value."
 <td align="center" width="50%">
 
 ### 🧩 24+
-**Delivered Projects**
+**Successful Projects**
 
 </td>
 <td align="center" width="50%">
@@ -79,68 +80,81 @@ philosophy:  "I prioritize quality over quantity to build lasting value."
 </tr>
 </table>
 
+## Academic Journey
+
+* 🎓 **Bachelor of Software Engineering (B.Sc.):**  
+  *Final Project:* Smart and networked monitoring & control of environmental parameters.
+* 🎓 **Associate of Software Engineering (A.Sc.):**  
+  *Final Project:* Android web browser development using B4A (Basic4Android).
+
 ## Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,php,js,bash,linux,nginx,docker,mysql,wordpress,git,github&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,js,kotlin,bash,linux,nginx,docker,mysql,sqlite,wordpress,html,css,git,github&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs%20%26%20AI-059669?style=flat-square&labelColor=0A0F0D" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-059669?style=flat-square&labelColor=0A0F0D" />
   <img src="https://img.shields.io/badge/Google%20Analytics-EAB308?style=flat-square&logo=googleanalytics&logoColor=white&labelColor=0A0F0D" />
   <img src="https://img.shields.io/badge/Search%20Console-10B981?style=flat-square&logo=google&logoColor=white&labelColor=0A0F0D" />
-  <img src="https://img.shields.io/badge/Matrix%20Protocol-000000?style=flat-square&logo=matrix&logoColor=white&labelColor=0A0F0D" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white&labelColor=0A0F0D" />
+  <img src="https://img.shields.io/badge/Matrix%20Decentralized%20Protocol-000000?style=flat-square&logo=matrix&logoColor=white&labelColor=0A0F0D" />
+  <img src="https://img.shields.io/badge/WebRTC%20%26%20P2P-059669?style=flat-square&logo=webrtc&logoColor=white&labelColor=0A0F0D" />
   <img src="https://img.shields.io/badge/Xray%20%2F%20VPN%20Infra-047857?style=flat-square&labelColor=0A0F0D" />
 </p>
 
-**Beyond coding:** 🧠 Psychology · 🧬 Biology · 📜 History · 🎵 Music · 💼 Commerce · ♟️ Strategy · 🚴 Cycling · 🎬 Cinema
+**Beyond coding:** 🧠 Psychology · 🧬 Biology · 📜 History · 🎵 Music · 💼 Commerce · ♟️ Strategy · 🚴 Cycling · 🎬 Movies
 
 ## Journey
 
-| Period | Role | Organization | Core Takeaway |
+| Period | Role | Organization | Core Experience & Impact |
 |:---|:---|:---|:---|
-| **2024 – 2026** | R&D in Online Commerce | Freelance Projects | Tested cross-platform media across Instagram, YouTube, and Web to identify genuine growth algorithms. |
-| **2023 – 2024** | Head of IT Department | Rosha Sadid Trading Co. | Maintained networks, enterprise websites, and integrated automation for international trade. |
-| **2022 – 2023** | Computer Tech & Sales Specialist | Roz Rayan System | Hardware/software maintenance, surveillance systems, e-commerce deployments, and online ad funnels. |
-| **2021 – 2022** | Administrative & HR Officer | Armed Forces HQ | Organizational workflows, structured operations, and light network administration. |
-| **2018 – 2019** | Founder | [Oxynesh](#) | Built an open crowd-sourced tutorial wiki ("Wikipedia for How-Tos"). |
-| **2017 – 2018** | Student Assistant | Sama University | Academic management workflows and student registry operations. |
+| **2026 – Present** | Digital Business Growth Engineering | **RoshdPishe (رشدپیشه)** | Helping businesses expand online, enter modern e-commerce, optimize digital sales funnels, and scale customer acquisition. |
+| **2024 – 2026** | R&D in Online Commerce | Freelance Projects | Built and scaled multi-platform media across Instagram, YouTube, and websites (entertainment to affiliate sales) to analyze organic growth mechanics. |
+| **2023 – 2024** | Head of IT Department | Rosha Sadid Trading Co. | Managed enterprise networks, web portals, internal automation pipelines, and international trade communications. |
+| **2022 – 2023** | Computer Tech & Sales Associate | Roz Rayan System Engineering | Software/hardware troubleshooting, security surveillance systems, e-commerce deployments, and business automation. |
+| **2021 – 2022** | Administrative & HR Officer | Armed Forces HQ (Military Service) | Managed organizational administrative operations and internal network infrastructure maintenance. |
+| **2018 – 2019** | Founder & Developer | **Oxynesh (اکسینش)** | Conceived and shipped a collaborative educational wiki ("Wikipedia for How-Tos") with crowd-sourced tutorials. |
+| **2017 – 2018** | Student Assistant | Sama University, Bandar Anzali | Supported academic affairs, educational administration, and student database management. |
 
-**🎓 Academic:**  
-* **B.Sc. Software Engineering:** *Smart and networked monitoring & control of environmental parameters.*  
-* **A.Sc. Software Engineering:** *Android web browser development using B4A.*
+## Project Matrix (12 Shipped Projects)
 
-## Project Matrix
-
-| Project | Domain | Stack | Highlights | Link |
+| Project | Domain | Tech Stack | Highlights | Repository |
 |:---|:---|:---|:---|:---:|
-| **Universal Media Speed** | Web Extension | `JavaScript` `Firefox WebExtensions` `CSS` | Global media playback controller (0.1x to 16x) with per-site preferences and shortcuts. | [Repo](https://github.com/mehdisayyadnahed/universal-media-speed-controller) |
-| **Telegram Message Archiver** | Systems / Automation | `Python` `C++` `Telegram API` | Custom client that stores incoming Telegram feeds and nullifies post-delivery deletions. | [Repo](https://github.com/mehdisayyadnahed/telegram-auto-forwarder) |
-| **Bludit "Sayyad" Edition** | Web Architecture | `PHP` `CSS` `JavaScript` | Persian-localized and optimized CMS distribution with terminal-inspired design. | [Repo](https://github.com/mehdisayyadnahed/bludit-sayyad-editoin) |
-| **The Little Go Book (FA)** | Technical Literature | `Go` `Markdown` `Docs` | Complete and polished Persian translation of Karl Seguin's fast-track Go guide. | [Repo](https://github.com/mehdisayyadnahed/the-little-go-book) |
-| **Crypto Price Wave Trader** | Algorithmic Trading | `Python` `Web API` `Linux` | Automated market price-action tracker executing rules across multiple exchanges. | [Repo](https://github.com/mehdisayyadnahed/crypto-price-wave-trader) |
-| **Tele→Insta Scheduler** | Content Pipeline | `Python` `Automation` `REST API` | Scheduled publisher from Telegram queues to Instagram with automatic watermarking. | [Repo](https://github.com/mehdisayyadnahed/tele-insta-poster) |
-| **Open DNS Finder** | Network Security | `Bash` `Linux CLI` | Automated DNS route scanner to identify unblocked paths for DNS-based bypass tunnels. | [Repo](https://github.com/mehdisayyadnahed/open-dns-finder) |
-| **Assembly TUI Sample** | Low-Level Systems | `Assembly x86` `Emu8086` | Modular Text User Interface (TUI) demonstrating low-level interrupt routines. | [Repo](https://github.com/mehdisayyadnahed/Assembly-Sample) |
+| **Universal Media Speed** | Browser Extension | `JS` `Firefox WebExtensions` `AI Agent` | Global media playback controller (0.1x to 16x) with per-site memory and hotkey bindings. | [Repo](https://github.com/mehdisayyadnahed/universal-media-speed-controller) |
+| **Factor Hamrah** | Android App | `Kotlin` `Jetpack Compose` `Android` | Native invoicing & billing app to manage proformas, sales, clients, bank accounts, and PDF generation. | [Repo](https://github.com/mehdisayyadnahed/factor-hamrah) |
+| **Universal File Server** | Network Systems | `Kotlin` `SAF` `HTTP` `FTP` `SFTP` | Native Android server enabling offline multi-protocol file transfers via USB, Hotspot, Wi-Fi, and Bluetooth. | [Repo](https://github.com/mehdisayyadnahed/universal-file-server) |
+| **Sitak Store Platform** | E-Commerce | `PHP` `MySQL` `Vanilla JS` `Web Push` | Lightweight modular platform featuring gamification, user engagement loops, and SMS/payment gateways. | [Repo](https://github.com/mehdisayyadnahed/sitak) |
+| **My Mini Messenger** | P2P / Privacy | `PHP` `SQLite` `MySQL` `WebRTC` | Single-file, self-hosted, zero-log web messenger with end-to-end encrypted chats and live audio/video calls. | [Repo](https://github.com/mehdisayyadnahed/my-mini-messenger) |
+| **The Little Go Book (FA)** | Technical Literature | `Go` `Markdown` `Documentation` | Complete, high-quality Persian translation of Karl Seguin's reference guide for Go programming. | [Repo](https://github.com/mehdisayyadnahed/the-little-go-book) |
+| **Crypto Price Wave Trader** | FinTech Bot | `Python` `Web API` `Linux` | Automated market price-trend detector executing algorithmic buy/sell orders across 7+ global & local exchanges. | [Repo](https://github.com/mehdisayyadnahed/crypto-price-wave-trader) |
+| **Telegram Message Archiver** | Automation / Client | `Python` `C++` `Telegram API` | Custom client storing all incoming Telegram feeds to prevent data loss from remote message edits or deletions. | [Repo](https://github.com/mehdisayyadnahed/telegram-auto-forwarder) |
+| **Tele→Insta Scheduler** | Content Pipeline | `Python` `REST API` `Automation` | Telegram bot queue system that automatically watermarks incoming media and schedules publishing to Instagram. | [Repo](https://github.com/mehdisayyadnahed/tele-insta-poster) |
+| **Bludit Special Edition** | Web Architecture | `PHP` `HTML` `CSS` `JS` | Localized, terminal-styled distribution of Bludit CMS aligning admin dashboard and front-end (Koh Theme). | [Repo](https://github.com/mehdisayyadnahed/bludit-sayyad-editoin) |
+| **Open DNS Finder** | Network Security | `Bash` `Linux CLI` `DNS` | Fast command-line scanner discovering functional DNS pathways for DNS-based censorship-resistant tunnels. | [Repo](https://github.com/mehdisayyadnahed/open-dns-finder) |
+| **Assembly TUI Sample** | Low-Level Systems | `Assembly x86` `Emu8086` | Modular Text User Interface (TUI) demonstrating hardware interrupt routines for educational environments. | [Repo](https://github.com/mehdisayyadnahed/Assembly-Sample) |
 
 ## Key Activities
 
-| Milestone | Context |
-|:---|:---|
-| **Mar 2026** | **Deployed a private Matrix server** during severe network disruptions for encrypted and uninterrupted communication. |
-| **Apr 2022 →** | **Resilient Personal VPN Infrastructure**, engineered to protect crypto trading operations and continuously hardened against filtering. |
-| **Dec 2020** | **Volunteer** in the nationwide COVID-19 screening program. |
-| **Dec 2019** | 🥈 **Runner-up**, Entrepreneurship Best Idea Competition — *Digital Tour Guide App*. |
-| **Jan 2019** | 🥇 **First Place Champion**, ACM Collegiate Programming Contest (Astaneh & Lahijan universities). |
-| **Apr 2018** | **Volunteer**, post-earthquake housing reconstruction in Kermanshah. |
+| Milestone | Timeframe | Context & Impact |
+|:---|:---:|:---|
+| **Deploying Matrix Decentralized Messenger** | **Mar 2026** | Deployed an independent, self-hosted Matrix server during international shutdowns to preserve resilient, secure communication. |
+| **Hardened Personal VPN Infrastructure** | **Apr 2022 →** | Engineered dedicated VPN routing for sensitive crypto-exchange IPs; continuously upgraded against DPI and nationwide filtering. |
+| **COVID-19 Screening Volunteer** | **Dec 2020** | Volunteered in the door-to-door community healthcare screening program during the national outbreak. |
+| **Runner-up, Entrepreneurship Best Idea** | **Dec 2019** | 🥈 Awarded 2nd place for "Digital Tour Guide & Online Travel App" at Astaneh-ye Ashrafiyeh State University. |
+| **Champion, ACM Collegiate Contest** | **Jan 2019** | 🥇 Won 1st place in the inaugural ACM programming competition between Astaneh & Lahijan universities. |
+| **Post-Earthquake Housing Reconstruction** | **Apr 2018** | Volunteered on-site in Kermanshah to rebuild damaged residential homes following the earthquake. |
 
-## Endorsements
+## Partnership Trust
 
-> *"Mehdi's creativity in gamification design effectively improved our user engagement and retention."*  
+> *"Mehdi’s expertise in designing integrated e-commerce structures helped us implement the combined offering of specialized equipment and engineering services in a simple and efficient manner."*  
+> — **Ramezani**, 8BitKala
+
+> *"Mehdi's creativity in gamification design effectively improved our user engagement and retention. He successfully transformed psychological principles of audience attraction into engaging technical solutions."*  
 > — **Tajvar**, CafeShen
 
-> *"His expertise in integrated e-commerce structures helped us offer equipment and engineering services simply and efficiently."*  
-> — **Ramezani**, 8BitKala
+> *"Mehdi’s experience in presenting professional and research backgrounds and developing personal brands in the digital world helped me turn my professional identity into a clear, trustworthy image."*  
+> — **HasaniNezhad**, Architect Engineer
 
 <a id="github-metrics"></a>
 ## GitHub Metrics
@@ -178,10 +192,11 @@ philosophy:  "I prioritize quality over quantity to build lasting value."
 
 <div align="center">
 
-*Ready to scale? For business inquiries, consultations, or technical collaborations:*
+*Ready to shape the future? Reach out for consultations, new projects, or a cup of coffee.*
 
-[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0F0D)](https://t.me/mehdisayyadnahed)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0F0D)](https://www.instagram.com/mehdisayyadnahed)
+[![Telegram](https://img.shields.io/badge/Telegram-@mehdisayyadnahed-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0F0D)](https://t.me/mehdisayyadnahed)
+[![Instagram](https://img.shields.io/badge/Instagram-@mehdisayyadnahed-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0F0D)](https://www.instagram.com/mehdisayyadnahed)
+[![Email](https://img.shields.io/badge/Email-MehdiSayyadNahed-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F0D)](mailto:MehdiSayyadNahed@gmail.com)
 [![Website](https://img.shields.io/badge/Website-mehdisayyadnahed.ir-10B981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0F0D)](https://mehdisayyadnahed.ir)
 
 <br><br>
@@ -201,7 +216,7 @@ philosophy:  "I prioritize quality over quantity to build lasting value."
 
 <div align="center">
 
-[درباره من](#درباره-من) · [ابزارهای کلیدی](#ابزارهای-کلیدی) · [مسیر تکامل](#مسیر-تکامل) · [ماتریس پروژه‌ها](#ماتریس-پروژهها) · [برخی از فعالیت‌ها](#برخی-از-فعالیتها) · [ارتباط](#ارتباط-با-من)
+[درباره من](#درباره-من) · [مسیر آکادمیک](#مسیر-آکادمیک) · [ابزارهای کلیدی](#ابزارهای-کلیدی) · [مسیر تکامل](#مسیر-تکامل) · [ماتریس پروژه‌ها](#ماتریس-پروژههای-متنباز-۱۲-پروژه) · [فعالیت‌ها](#برخی-از-فعالیتها) · [اعتماد همکاری](#اعتماد-همکاری) · [ارتباط](#ارتباط-با-من)
 
 </div>
 
@@ -209,12 +224,12 @@ philosophy:  "I prioritize quality over quantity to build lasting value."
 
 > *در دسترس برای توسعه و رشد پایدار کسب‌وکار شما.*
 
-من مهدی صیاد هستم؛ به کسب‌وکارها کمک می‌کنم در دنیای دیجیتال **بیشتر و بهتر دیده شوند**. با بیش از **۷ سال تجربه** در محیط‌های اداری، فنی و تجاری، در نقطه‌ی تلاقی **کامپیوتر و تجارت** فعالیت می‌کنم: مهندسی زیرساخت تبلیغات و فروش، پردازش داده‌ها، و توسعه‌ی ابزارهای پایدار نرم‌افزاری.
+من مهدی صیاد هستم؛ به کسب‌وکارها کمک می‌کنم در دنیای دیجیتال **بیشتر و بهتر دیده شوند**. با بیش از **۷ سال تجربه** در محیط‌های اداری، دانشگاهی و تجاری، در نقطه‌ی تلاقی **کامپیوتر و تجارت** فعالیت می‌کنم: هدایت هوشمندانه‌ی تحول دیجیتال، تحلیل داده‌ها، مهندسی زیرساخت‌های تبلیغات و فروش، اتوماسیون فرایندها، و توسعه‌ی نرم‌افزارهای پایدار.
 
-* **نام:** مهدی صیاد (Mehdi Sayyad)
+* **نام:** مهدی صیاد ناهد (Mehdi Sayyad)
 * **نقش:** مشاور رشد دیجیتال · مهندس نرم‌افزار
-* **موقعیت:** گیلان، ایران (همکاری ریموت در سراسر جهان)
-* **زمینه‌های تمرکز:** اتوماسیون فرایندها، سئو، زیرساخت تجارت الکترونیک، شبکه‌های مقاوم و ضدسانسور
+* **فعالیت جاری:** بنیان‌گذار رشدپیشه (مهندسی رشد دیجیتال کسب‌وکار)
+* **موقعیت:** گیلان، ایران (همکاری دورکاری در سراسر جهان)
 * **باور کاری:** *«من کیفیت را بر کمیت ترجیح می‌دهم تا ارزشی ماندگار خلق کنم.»*
 
 <br>
@@ -226,77 +241,91 @@ philosophy:  "I prioritize quality over quantity to build lasting value."
 
 </div>
 
+## مسیر آکادمیک
+
+* 🎓 **کارشناسی مهندسی نرم‌افزار:**  
+  *پروژه پایانی:* پایش و کنترل هوشمند و تحت شبکه‌ی پارامترهای محیطی.
+* 🎓 **کاردانی مهندسی نرم‌افزار:**  
+  *پروژه پایانی:* توسعه‌ی مرورگر وب با استفاده از Basic4Android برای پلتفرم اندروید.
+
 ## ابزارهای کلیدی
 
 <p align="center" dir="ltr">
-  <img src="https://skillicons.dev/icons?i=python,cpp,php,js,bash,linux,nginx,docker,mysql,wordpress,git,github&theme=dark" alt="مهارت‌های فنی" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,js,kotlin,bash,linux,nginx,docker,mysql,sqlite,wordpress,html,css,git,github&theme=dark" alt="مهارت‌های فنی" />
 </p>
 
 <p align="center" dir="ltr">
-  <img src="https://img.shields.io/badge/LLMs%20%26%20AI-059669?style=flat-square&labelColor=0A0F0D" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-059669?style=flat-square&labelColor=0A0F0D" />
   <img src="https://img.shields.io/badge/Google%20Analytics-EAB308?style=flat-square&logo=googleanalytics&logoColor=white&labelColor=0A0F0D" />
   <img src="https://img.shields.io/badge/Search%20Console-10B981?style=flat-square&logo=google&logoColor=white&labelColor=0A0F0D" />
-  <img src="https://img.shields.io/badge/Matrix%20Protocol-000000?style=flat-square&logo=matrix&logoColor=white&labelColor=0A0F0D" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white&labelColor=0A0F0D" />
+  <img src="https://img.shields.io/badge/Matrix%20Decentralized%20Protocol-000000?style=flat-square&logo=matrix&logoColor=white&labelColor=0A0F0D" />
+  <img src="https://img.shields.io/badge/WebRTC%20%26%20P2P-059669?style=flat-square&logo=webrtc&logoColor=white&labelColor=0A0F0D" />
   <img src="https://img.shields.io/badge/Xray%20%2F%20VPN%20Infra-047857?style=flat-square&labelColor=0A0F0D" />
 </p>
 
-**خارج از گود کدنویسی:** 🧠 روانشناسی · 🧬 زیست‌شناسی · 📜 تاریخ · 🎵 موسیقی · 💼 تجارت · ♟️ استراتژی · 🚴 دوچرخه‌سواری · 🎬 سینما
+**خارج از گود کدنویسی:** 🧠 روانشناسی · 🧬 زیست‌شناسی · 📜 تاریخ · 🎵 موسیقی · 💼 تجارت · ♟️ استراتژی · 🚴 دوچرخه‌سواری · 🎬 فیلم و سینما
 
 ## مسیر تکامل
 
-| بازه | سمت | محل | دستاورد و تجربه |
+| بازه زمانی | سمت | سازمان / محل | دستاورد و حاصل تجربه |
 |:---|:---|:---|:---|
-| **۱۴۰۳ – ۱۴۰۵** | تحقیق و توسعه تجارت آنلاین | پروژه‌های آزادکاری | توسعه و آزمون رسانه‌ها در اینستاگرام، یوتیوب و وبسایت برای تحلیل مکانیزم‌های رشد ارگانیک. |
-| **۱۴۰۲ – ۱۴۰۳** | ریاست بخش انفورماتیک | شرکت بازرگانی روشا سدید | توسعه و نگهداری شبکه، پورتال‌های وب و پیاده‌سازی اتوماسیون برای مراودات تجاری بین‌المللی. |
-| **۱۴۰۱ – ۱۴۰۲** | تکنسین کامپیوتر و کارشناس فروش | شرکت فنی‌مهندسی رز رایان سیستم | تعمیرات سخت‌افزاری/نرم‌افزاری، سیستم‌های نظارتی، فروشگاه اینترنتی و کمپین‌های تبلیغاتی. |
-| **۱۴۰۰ – ۱۴۰۱** | خدمت وظیفه اداری (نیروی انسانی) | ستاد نیروهای مسلح | تسلط بر فرایندهای اداری و سازمانی و پشتیبانی زیرساخت‌های شبکه داخلی. |
-| **۱۳۹۷ – ۱۳۹۸** | بنیان‌گذار | «اکسینش» (آموزشنامه‌ی آزاد) | پلتفرم اشتراکی آموزش‌های کاربردی («ویکی‌پدیای راهنماها»). |
-| **۱۳۹۶ – ۱۳۹۷** | همکار دانشجویی | دانشگاه سما | مدیریت سامانه‌های آموزشی و امور اداری دانشگاه. |
+| **۱۴۰۵ – تاکنون** | مهندسی رشد دیجیتال کسب‌وکار | **رشدپیشه (RoshdPishe)** | کمک به کسب‌وکارها برای گسترش افق‌های فعالیت، ورود کارآمد به تجارت آنلاین و افزایش بهینه‌ی فروش. |
+| **۱۴۰۳ – ۱۴۰۵** | تحقیق و توسعه‌ی تجارت آنلاین | پروژه‌های آزادکاری | توسعه و ارزیابی کانال‌های رسانه‌ای متعدد در اینستاگرام، یوتیوب و وبسایت (از سرگرمی تا فروش افیلیت) جهت درک سازوکار رشد ارگانیک. |
+| **۱۴۰۲ – ۱۴۰۳** | ریاست بخش انفورماتیک | شرکت تجاری روشا سدید | مدیریت سرورها، شبکه، وبسایت، پیاده‌سازی اتوماسیون اداری و آشنایی با تجارت بین‌الملل و تبلیغات برون‌مرزی. |
+| **۱۴۰۱ – ۱۴۰۲** | تکنسین کامپیوتر و کارمند فروش | شرکت فنی‌مهندسی رز رایان سیستم | تعمیرات تخصصی سخت‌افزار/نرم‌افزار، سیستم‌های امنیتی و نظارتی، توسعه فروشگاه اینترنتی و اجرای کمپین‌های تبلیغاتی. |
+| **۱۴۰۰ – ۱۴۰۱** | سرباز واحد اداری (نیروی انسانی) | ستاد نیروهای مسلح | آشنایی با ساختار اداری و سازمانی و انجام امور پشتیبانی شبکه و زیرساخت واحد خدمتی. |
+| **۱۳۹۷ – ۱۳۹۸** | بنیان‌گذار و توسعه‌دهنده | **اکسینش (آموزشنامه‌ی آزاد)** | طراحی و پیاده‌سازی پلتفرم محتوایی مخاطب‌محور برای اشتراک‌گذاری و ویرایش مشارکتی آموزش‌ها. |
+| **۱۳۹۶ – ۱۳۹۷** | کاردانشجویی واحد آموزش | دانشگاه سما واحد بندرانزلی | کسب تجربه در فرایندهای اجرایی، ثبت‌نام، و سامانه‌های آموزشی دانشگاهی. |
 
-**🎓 پیشینه آکادمیک:**  
-* **کارشناسی مهندسی نرم‌افزار:** *پایش و کنترل هوشمند و تحت‌شبکه‌ی پارامترهای محیطی.*  
-* **کاردانی مهندسی نرم‌افزار:** *توسعه مرورگر وب برای اندروید با Basic4Android.*
+## ماتریس پروژه‌های متن‌باز (۱۲ پروژه)
 
-## ماتریس پروژه‌ها
-
-| عنوان پروژه | حوزه | ابزارها | توضیحات فنی | لینک |
+| عنوان پروژه | حوزه تخصصی | ابزارها | توضیحات فنی | مخزن |
 |:---|:---|:---|:---|:---:|
-| **کنترلر سراسری سرعت مدیا** | افزونه وب | `JavaScript` `WebExtension` | افزونه فایرفاکس برای کنترل دقیق سرعت پخش (۰.۱ تا ۱۶ برابر) با کلیدهای میانبر اختصاصی. | [مشاهده](https://github.com/mehdisayyadnahed/universal-media-speed-controller) |
-| **کلاینت بایگانی پیام‌های تلگرام** | سیستم و شبکه | `Python` `C++` `Web API` | کلاینت اختصاصی تلگرام برای ذخیره و مانیتور دائمی پیام‌ها جهت جلوگیری از اثر حذف یا ویرایش. | [مشاهده](https://github.com/mehdisayyadnahed/telegram-auto-forwarder) |
-| **نسخه اختصاصی CMS بلودیت** | وب | `PHP` `CSS` `JavaScript` | بومی‌سازی و شخصی‌سازی موتور Bludit همراه با هماهنگ‌سازی پوسته مدیریت و کاربر. | [مشاهده](https://github.com/mehdisayyadnahed/bludit-sayyad-editoin) |
-| **ترجمه کتاب The Little Go Book** | مستندسازی | `Go` `Markdown` | ترجمه جامع و سلیس کتاب آموزشی مرجع زبان برنامه‌نویسی Go به زبان فارسی. | [مشاهده](https://github.com/mehdisayyadnahed/the-little-go-book) |
-| **ربات معامله‌گر امواج قیمت رمزارز** | الگوریتم مالی | `Python` `REST API` `Linux` | ربات شناسایی روندهای قیمتی و انجام معاملات خودکار در صرافی‌های بین‌المللی و داخلی. | [مشاهده](https://github.com/mehdisayyadnahed/crypto-price-wave-trader) |
-| **زمان‌بند انتشار تلگرام به اینستاگرام** | اتوماسیون رسانه | `Python` `Automation` | ربات دریافت و صف‌بندی محتوا، درج خودکار واترمارک و انتشار زمان‌بندی‌شده در اینستاگرام. | [مشاهده](https://github.com/mehdisayyadnahed/tele-insta-poster) |
-| **اسکنر DNS عبور از فیلترینگ** | ابزار ترمینال | `Bash` `Linux` | ابزار خط فرمان لینوکس جهت یافتن مسیرهای پایدار DNS برای تونل‌سازی و اینترنت آزاد. | [مشاهده](https://github.com/mehdisayyadnahed/open-dns-finder) |
-| **نمونه نرم‌افزار TUI اسمبلی** | سطح پایین | `Assembly x86` `Emu8086` | برنامه‌ی متنی اسمبلی با واسط کاربری مستقیم برای نمایش سازوکار وقفه‌های سیستمی. | [مشاهده](https://github.com/mehdisayyadnahed/Assembly-Sample) |
+| **کنترلر سرعت پخش مدیا** | افزونه وب | `JS` `Firefox Extension` `AI` | افزونه فایرفاکس توسعه‌یافته با هوش مصنوعی برای کنترل سرعت پخش انواع فرمت‌های ویدیو و صوت (۰.۱ تا ۱۶ برابر). | [سورس](https://github.com/mehdisayyadnahed/universal-media-speed-controller) |
+| **فاکتور همراه** | اپلیکیشن اندروید | `Kotlin` `Jetpack Compose` | نرم‌افزار بومی اندروید جهت صدور و مدیریت حرفه‌ای پیش‌فاکتور و فاکتور فروش، مشتریان و حساب‌ها با خروجی استاندارد PDF. | [سورس](https://github.com/mehdisayyadnahed/factor-hamrah) |
+| **سرور انتقال فایل اندروید** | سیستم و شبکه | `Kotlin` `SAF` `HTTP` `SFTP` | سرور بومی اندروید برای انتقال فایل بدون اینترنت از طریق پروتکل‌های HTTP، FTP و SFTP روی وای‌فای، هات‌اسپات و بلوتوث. | [سورس](https://github.com/mehdisayyadnahed/universal-file-server) |
+| **سی‌تک (پلتفرم فروشگاه و گیمیفیکیشن)** | تجارت الکترونیک | `PHP` `MySQL` `JS` `Push` | پلتفرم سبک و ماژولار فروشگاهی و تعاملی با گیمیفیکیشن روان‌شناختی، اتصال به درگاه پرداخت و ارسال وب‌پوش/پیامک. | [سورس](https://github.com/mehdisayyadnahed/sitak) |
+| **پیام‌رسان تک‌فایلی و بدون‌لاگ** | امنیت و وب | `PHP` `SQLite` `WebRTC` | پیام‌رسان تحت وب خودمیزبان بدون نیاز به لاگین و بدون ذخیره ردپا، با چت محرمانه سرتاسری و تماس زنده در شبکه محلی. | [سورس](https://github.com/mehdisayyadnahed/my-mini-messenger) |
+| **ترجمه کتاب The Little Go Book** | مستندسازی | `Go` `Markdown` | ترجمه کامل و دقیق کتاب مرجع آموزش سریع زبان برنامه‌نویسی Go به زبان فارسی. | [سورس](https://github.com/mehdisayyadnahed/the-little-go-book) |
+| **ربات تریدر امواج قیمت رمزارز** | الگوریتم معاملاتی | `Python` `Web API` `Linux` | ربات خودکار شناسایی روندهای قیمتی و انجام خرید و فروش در بیش از ۷ صرافی بین‌المللی و داخلی (نوبیتکس، بایننس و...). | [سورس](https://github.com/mehdisayyadnahed/crypto-price-wave-trader) |
+| **کلاینت بایگانی پیام‌های تلگرام** | اتوماسیون داده | `Python` `C++` `Telegram API` | کلاینت اختصاصی تلگرام برای مانیتور و ذخیره دائمی پیام‌ها جهت بی‌اثر کردن حذف یا ویرایش ثانویه توسط فرستنده. | [سورس](https://github.com/mehdisayyadnahed/telegram-auto-forwarder) |
+| **زمان‌بند انتشار تلگرام به اینستاگرام** | اتوماسیون شبکه‌های اجتماعی | `Python` `REST API` | ربات دریافت رسانه از تلگرام، درج خودکار واترمارک و انتشار زمان‌بندی‌شده بر بستر API اینستاگرام. | [سورس](https://github.com/mehdisayyadnahed/tele-insta-poster) |
+| **نسخه اختصاصی CMS بلودیت** | وب و سیستم مدیریت محتوا | `PHP` `HTML` `CSS` `JS` | شخصی‌سازی و بهینه‌سازی کامل بلودیت همراه با یکپارچه‌سازی ظاهر بخش کاربری و پنل مدیریت (تم Koh Terminal). | [سورس](https://github.com/mehdisayyadnahed/bludit-sayyad-editoin) |
+| **اسکنر DNS عبور از فیلترینگ** | ابزار ترمینال | `Bash` `Linux` `Networking` | ابزار Bash در لینوکس برای بررسی مسیرهای عملکردی DNS و شناسایی IPهای معتبر جهت تونل‌های DNS-based VPN. | [سورس](https://github.com/mehdisayyadnahed/open-dns-finder) |
+| **نمونه نرم‌افزار TUI اسمبلی** | سیستم‌های سطح پایین | `Assembly x86` `Emu8086` | برنامه‌ی اسمبلی با واسط کاربری متنی برای آموزش و بررسی سازوکار کنترل وقفه‌ها در سیستم‌های پایه‌ای. | [سورس](https://github.com/mehdisayyadnahed/Assembly-Sample) |
 
 ## برخی از فعالیت‌ها
 
-| بازه زمانی | شرح فعالیت |
-|:---|:---|
-| **اسفند ۱۴۰۴** | **پیاده‌سازی پیام‌رسان توزیع‌شده Matrix** جهت برقراری ارتباط پایدار و مستقل پس از محدودیت‌های شبکه بین‌الملل. |
-| **فروردین ۱۴۰۱ ←** | **زیرساخت VPN شخصی**، راه‌اندازی اولیه به دلیل حساسیت صرافی‌ها و تقویت مداوم آن در برابر فیلترینگ. |
-| **آذر ۱۳۹۹** | **داوطلب** در طرح غربالگری خانه‌به‌خانه‌ی سلامت کرونا. |
-| **آذر ۱۳۹۸** | 🥈 **نایب‌قهرمان** رویداد ایده‌ی برتر کارآفرینی دانشگاه با طرح «اپلیکیشن تورلیدر آنلاین». |
-| **دی ۱۳۹۷** | 🥇 **رتبه اول** نخستین دوره مسابقات برنامه‌نویسی ACM دانشگاه‌های آستانه‌اشرفیه و لاهیجان. |
-| **فروردین ۱۳۹۷** | **داوطلب** بازسازی مناطق مسکونی زلزله‌زده در استان کرمانشاه. |
+| فعالیت | زمان | شرح و دستاورد |
+|:---|:---:|:---|
+| **راه‌اندازی پیام‌رسان غیرمتمرکز Matrix** | **اسفند ۱۴۰۴** | پیاده‌سازی سرور اختصاصی Matrix در دوران قطع اینترنت بین‌الملل برای حفظ ارتباط امن و پایدار با اطرافیان و اشتراک اخبار. |
+| **توسعه سرویس VPN شخصی** | **فروردین ۱۴۰۱ ←** | ایجاد زیرساخت اختصاصی به دلیل حساسیت صرافی‌های خارجی به IP و توسعه مداوم آن جهت دور زدن فیلترینگ اینترنت. |
+| **طرح غربالگری خانه‌به‌خانه‌ی سلامت کرونا** | **آذر ۱۳۹۹** | حضور داوطلبانه در تیم‌های امدادی و غربالگری سلامت خانوارها در دوران اوج پاندمی کووید-۱۹. |
+| **نایب‌قهرمانی مسابقات ایده‌ی برتر کارآفرینی** | **آذر ۱۳۹۸** | 🥈 کسب رتبه دوم در دانشگاه دولتی آستانه‌اشرفیه با طرح «نرم‌افزار اطلاعات گردشگری و تورلیدر آنلاین». |
+| **قهرمانی مسابقات برنامه‌نویسی دانشجویی ACM** | **دی ۱۳۹۷** | 🥇 کسب رتبه اول در نخستین دوره مسابقات الگوریتم و برنامه‌نویسی دانشگاه‌های ملی آستانه‌اشرفیه و لاهیجان. |
+| **بازسازی مناطق زلزله‌زده کرمانشاه** | **فروردین ۱۳۹۷** | حضور داوطلبانه در قالب اردوی جهادی دانشجویی برای بازسازی مسکن‌های آسیب‌دیده روستایی در کرمانشاه. |
 
 ## اعتماد همکاری
 
-> *«خلاقیت مهدی در طراحی گیمیفیکیشن، تعامل و ماندگاری مشتریان ما را به شکل مؤثری بهبود بخشید.»*  
+> *«تسلط مهدی بر طراحی ساختارهای یکپارچه فروشگاهی، به ما کمک کرد تا فرآیند ارائه‌ هم‌زمان تجهیزات تخصصی و خدمات مهندسی مربوط به آن‌ها را به شکلی ساده و کارآمد پیاده‌سازی کنیم.»*  
+> — **رمضانی**، ۸بیت‌کالا
+
+> *«خلاقیت مهدی در طراحی گیمیفیکیشن، تعامل و ماندگاری مشتریان ما را به شکل مؤثری بهبود بخشید. او توانست مفاهیم روان‌شناختی جذب مخاطب را به راهکارهای فنی و جذاب تبدیل کند.»*  
 > — **تاجور**، کافه‌شن
 
-> *«تسلط مهدی بر طراحی ساختارهای یکپارچه‌ی فروشگاهی به ما کمک کرد ارائه‌ی هم‌زمان تجهیزات تخصصی و خدمات مهندسی را ساده و کارآمد پیاده کنیم.»*  
-> — **رمضانی**، ۸بیت‌کالا
+> *«تجربه‌ی مهدی در چگونگی ارائه‌ی سوابق شغلی و پژوهشی و توسعه‌ی برند شخصی در دنیای دیجیتال، به من کمک کرد تا هویت تخصصی خود را به تصویری شفاف و اعتمادساز تبدیل کنم.»*  
+> — **حسنی‌نژاد**، مهندس معمار
 
 ## ارتباط با من
 
 <div align="center">
 
-*برای مشاوره در حوزه رشد آنلاین، همکاری در پروژه‌ها یا گفتگو پیرامون فناوری‌های نو:*
+*برای مشاوره در حوزه رشد آنلاین، همکاری در پروژه‌ها یا یک فنجان قهوه، پیام بدهید:*
 
-[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0F0D)](https://t.me/mehdisayyadnahed)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0F0D)](https://www.instagram.com/mehdisayyadnahed)
+[![Telegram](https://img.shields.io/badge/Telegram-@mehdisayyadnahed-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0F0D)](https://t.me/mehdisayyadnahed)
+[![Instagram](https://img.shields.io/badge/Instagram-@mehdisayyadnahed-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0F0D)](https://www.instagram.com/mehdisayyadnahed)
+[![Email](https://img.shields.io/badge/Email-MehdiSayyadNahed-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F0D)](mailto:MehdiSayyadNahed@gmail.com)
 [![Website](https://img.shields.io/badge/Website-mehdisayyadnahed.ir-10B981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0F0D)](https://mehdisayyadnahed.ir)
 
 <br><br>
@@ -312,7 +341,7 @@ philosophy:  "I prioritize quality over quantity to build lasting value."
 
 <sub>© 2026 · Mehdi Sayyad · <i>Quality over quantity — کیفیت بر کمیت</i></sub>
 
-<!-- Footer Banner (Green Terminal Theme) -->
+<!-- Footer Banner (Matching Green Terminal Theme) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,35:059669,70:064E3B,100:0A0F0D&height=120&section=footer" alt="Footer Banner" />
 
 </div>
