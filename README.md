@@ -7,12 +7,12 @@
 
   <!-- Header Banner (Terminal Green Gradient) -->
   <a href="https://mehdisayyadnahed.ir">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F0D,40:064E3B,75:059669,100:10B981&height=220&section=header&text=Mehdi%20Sayyad&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Bridging%20Technology%20and%20Commerce&descAlignY=58&descSize=18&animation=fadeIn" alt="Mehdi Sayyad Header Banner" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F0D,40:064E3B,75:059669,100:10B981&height=220&section=header&text=Mehdi%20Sayyad&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Connecting%20Technology%20and%20Commerce&descAlignY=58&descSize=18&animation=fadeIn" alt="Mehdi Sayyad Header Banner" />
   </a>
 
   <!-- Animated Typing Tagline -->
   <a href="https://mehdisayyadnahed.ir">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=Digital+growth+consultant+%26+software+engineer;7%2B+years+bridging+IT+and+commerce;Automation+%C2%B7+SEO+%C2%B7+Networks+%C2%B7+Open+Source;Quality+over+quantity.+Lasting+value." alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=Digital+growth+consultant+%26+software+engineer;7%2B+years+connecting+IT+and+commerce;Automation+%C2%B7+SEO+%C2%B7+Networks+%C2%B7+Open+Source;Quality+over+quantity.+Lasting+value." alt="Typing Tagline" />
   </a>
 
   <br>
