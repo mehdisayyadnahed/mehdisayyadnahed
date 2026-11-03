@@ -29,7 +29,6 @@
     <a href="https://t.me/mehdisayyadnahed"><img src="https://img.shields.io/badge/Telegram-@mehdisayyadnahed-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0F0D" alt="Telegram" /></a>
     <a href="https://www.instagram.com/mehdisayyadnahed"><img src="https://img.shields.io/badge/Instagram-@mehdisayyadnahed-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0F0D" alt="Instagram" /></a>
     <a href="mailto:MehdiSayyadNahed@gmail.com"><img src="https://img.shields.io/badge/Email-MehdiSayyadNahed-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F0D" alt="Email" /></a>
-    <a href="https://github.com/mehdisayyadnahed"><img src="https://komarev.com/ghpvc/?username=mehdisayyadnahed&style=for-the-badge&color=10B981&label=VIEWS&labelColor=0A0F0D" alt="Views" /></a>
   </p>
 
 </div>
@@ -44,7 +43,7 @@
 
 <div align="center">
 
-[About](#about) · [Academic](#academic-journey) · [Stack](#stack--tools) · [Journey](#journey) · [Projects](#project-matrix-12-shipped-projects) · [Key Activities](#key-activities) · [Testimonials](#partnership-trust) · [Metrics](#github-metrics) · [Contact](#contact)
+[About](#about) · [Academic](#academic-journey) · [Stack](#stack--tools) · [Journey](#journey) · [Projects](#project-matrix-12-shipped-projects) · [Key Activities](#key-activities) · [Testimonials](#partnership-trust) · [Contact](#contact)
 
 </div>
 
@@ -155,30 +154,6 @@ philosophy:  "In today's fast-paced world, I prioritize quality over quantity to
 
 > *"Mehdi’s experience in presenting professional and research backgrounds and developing personal brands in the digital world helped me turn my professional identity into a clear, trustworthy image."*  
 > — **HasaniNezhad**, Architect Engineer
-
-<a id="github-metrics"></a>
-## GitHub Metrics
-
-<div align="center">
-
-  <!-- Language Breakdown & Productive Time -->
-  <table border="0">
-    <tr>
-      <td width="55%" align="center" valign="middle">
-        <img src="./metrics.languages.svg" alt="Language Distribution" />
-      </td>
-      <td width="45%" align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehdisayyadnahed&theme=transparent&utcOffset=3.5" alt="Productive Time" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Working Streak (demolab official endpoint with matching green theme) -->
-  <img src="https://streak-stats.demolab.com?user=mehdisayyadnahed&theme=transparent&ring=10B981&fire=22C55E&currStreakLabel=10B981&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=1f2937&border=1f2937" alt="GitHub Streak" width="70%" />
-
-</div>
 
 ## Contact
 
