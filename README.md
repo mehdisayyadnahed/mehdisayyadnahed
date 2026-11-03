@@ -161,11 +161,6 @@ philosophy:  "In today's fast-paced world, I prioritize quality over quantity to
 
 <div align="center">
 
-  <!-- Production Isometric Calendar -->
-  <img src="./metrics.isocalendar.svg" alt="Isometric Commit Calendar" width="95%" />
-
-  <br><br>
-
   <!-- Language Breakdown & Productive Time -->
   <table border="0">
     <tr>
@@ -178,13 +173,10 @@ philosophy:  "In today's fast-paced world, I prioritize quality over quantity to
     </tr>
   </table>
 
+  <br>
+
   <!-- Working Streak (demolab official endpoint with matching green theme) -->
   <img src="https://streak-stats.demolab.com?user=mehdisayyadnahed&theme=transparent&ring=10B981&fire=22C55E&currStreakLabel=10B981&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=1f2937&border=1f2937" alt="GitHub Streak" width="70%" />
-
-  <br><br>
-
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/mehdisayyadnahed/mehdisayyadnahed/output/github-snake-dark.svg" alt="Contributions Snake" width="100%" />
 
 </div>
 
