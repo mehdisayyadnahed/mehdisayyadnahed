@@ -138,7 +138,7 @@ philosophy:  "In today's fast-paced world, I prioritize quality over quantity to
 | Milestone | Timeframe | Context & Impact |
 |:---|:---:|:---|
 | **Deploying Matrix Decentralized Messenger** | **Mar 2026** | Deployed an independent, self-hosted Matrix server during international shutdowns to preserve resilient, secure communication. |
-| **Hardened Personal VPN Infrastructure** | **Apr 2022 →** | Engineered dedicated VPN routing for sensitive crypto-exchange IPs; continuously upgraded against DPI and nationwide filtering. |
+| **Hardened Personal VPN Infrastructure** | **Apr 2022** | Engineered dedicated VPN routing for sensitive crypto-exchange IPs; continuously upgraded against DPI and nationwide filtering. |
 | **COVID-19 Screening Volunteer** | **Dec 2020** | Volunteered in the door-to-door community healthcare screening program during the national outbreak. |
 | **Runner-up, Entrepreneurship Best Idea** | **Dec 2019** | 🥈 Awarded 2nd place for "Digital Tour Guide & Online Travel App" at Astaneh-ye Ashrafiyeh State University. |
 | **Champion, ACM Collegiate Contest** | **Jan 2019** | 🥇 Won 1st place in the inaugural ACM programming competition between Astaneh & Lahijan universities. |
