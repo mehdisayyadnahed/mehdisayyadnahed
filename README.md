@@ -7,7 +7,7 @@
 
   <!-- Header Banner (Terminal Green Gradient) -->
   <a href="https://mehdisayyadnahed.ir">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F0D,40:064E3B,75:059669,100:10B981&height=220&section=header&text=Mehdi%20Sayyad&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Connecting%20Technology%20and%20Commerce&descAlignY=58&descSize=18&animation=fadeIn" alt="Mehdi Sayyad Header Banner" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F0D,40:064E3B,75:059669,100:10B981&height=220&section=header&text=مهدی%20صیاد&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Connecting%20Technology%20and%20Commerce&descAlignY=58&descSize=18&animation=fadeIn" alt="Mehdi Sayyad Header Banner" />
   </a>
 
   <!-- Animated Typing Tagline -->
