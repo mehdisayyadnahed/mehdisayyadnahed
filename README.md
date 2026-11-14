@@ -55,12 +55,13 @@
 
 من مهدی صیاد هستم؛ به کسب‌وکارها کمک می‌کنم در دنیای دیجیتال **بیشتر و بهتر دیده شوند**. با بیش از **۷ سال تجربه** در محیط‌های اداری، دانشگاهی و تجاری، در نقطه‌ی تلاقی **کامپیوتر و تجارت** فعالیت می‌کنم: هدایت هوشمندانه‌ی تحول دیجیتال، تحلیل داده‌ها، مهندسی زیرساخت‌های تبلیغات و فروش، اتوماسیون فرایندها، و توسعه‌ی نرم‌افزارهای پایدار.
 
+```yaml
 * **نام:** مهدی صیاد ناهد (Mehdi Sayyad)
 * **نقش:** مشاور رشد دیجیتال · مهندس نرم‌افزار
 * **فعالیت جاری:** بنیان‌گذار رشدپیشه (مهندسی رشد دیجیتال کسب‌وکار)
 * **موقعیت:** گیلان، ایران (همکاری دورکاری در سراسر جهان)
 * **باور کاری:** *«من کیفیت را بر کمیت ترجیح می‌دهم تا ارزشی ماندگار خلق کنم.»*
-
+```
 <br>
 
 <div align="center" dir="ltr">
@@ -178,6 +179,7 @@
 
 I help businesses gain **more and better visibility** in the digital landscape. With **7+ years** of hands-on experience across administrative, academic, and commercial environments, I sit right where **computers meet commerce**: engineering marketing and sales infrastructures, analyzing data, automating workflows, and building resilient software tools to optimize profitability.
 
+<div align="left">
 ```yaml
 name:        Mehdi Sayyad (مهدی صیاد ناهد)
 role:        Digital Growth Consultant · Software Engineer
@@ -186,6 +188,7 @@ location:    Gilan, Iran (Working Remotely Worldwide)
 focus:       [Business Automation, SEO & Ads, Resilient Networks, Web & Android Architecture]
 philosophy:  "In today's fast-paced world, I prioritize quality over quantity to build lasting value."
 ```
+</div>
 
 <table>
 <tr>
