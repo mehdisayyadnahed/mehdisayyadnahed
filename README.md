@@ -18,9 +18,9 @@
   <br>
 
   <!-- Navigation Switcher -->
-  <p>
-    <b>🌐 زبان / Language:</b> &nbsp;
-    <a href="#-فارسی"><b>🇮🇷 فارسی</b></a> &nbsp;·&nbsp; <a href="#-english"><b>🇬🇧 English</b></a>
+  <p dir="ltr">
+    <b dir="ltr">🌐 &lrm;<span dir="rtl">زبان</span> / <span dir="ltr">Language</span>:</b> &nbsp;
+    <a href="#-فارسی" dir="ltr"><b>🇮🇷 &lrm;<span dir="rtl">فارسی</span></b></a> &nbsp;·&nbsp; <a href="#-english" dir="ltr"><b>🇬🇧 English</b></a>
   </p>
 
   <!-- Badges -->
@@ -41,7 +41,7 @@
 
 <div dir="rtl" align="right">
 
-# 🇮🇷 فارسی
+<h1 dir="rtl" align="right">🇮🇷 فارسی</h1>
 
 <div align="center">
 
@@ -64,19 +64,31 @@
 
 <br>
 
-<div align="center" dir="ltr">
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-| 🧩 +۲۴ پروژه‌ی موفق | ⏳ +۷ سال تجربه فنی و تجاری |
-|:---:|:---:|
+### 🧩 ۲۴+
+**پروژه‌ی موفق**
 
+</td>
+<td align="center" width="50%">
+
+### ⏳ ۷+
+**سال تجربه‌ی فنی و تجاری**
+
+</td>
+</tr>
+</table>
 </div>
 
 ## مسیر آکادمیک
 
-* 🎓 **کارشناسی مهندسی نرم‌افزار (B.Sc.):**  
+* 🎓 **کارشناسی مهندسی نرم‌افزار (<span dir="ltr">B.Sc.</span>):**  
   *پروژه پایانی:* پایش و کنترل هوشمند و تحت شبکه‌ی پارامترهای محیطی.
-* 🎓 **کاردانی مهندسی نرم‌افزار (A.Sc.):**  
-  *پروژه پایانی:* توسعه‌ی مرورگر وب برای پلتفرم اندروید با استفاده از B4A (Basic4Android).
+* 🎓 **کاردانی مهندسی نرم‌افزار (<span dir="ltr">A.Sc.</span>):**  
+  *پروژه پایانی:* توسعه‌ی مرورگر وب برای پلتفرم اندروید با استفاده از <span dir="ltr">B4A (Basic4Android)</span>.
 
 ## ابزارهای کلیدی
 
@@ -116,7 +128,7 @@
 | **فاکتور همراه** | اپلیکیشن اندروید | `Kotlin` `Jetpack Compose` `Android` | نرم‌افزار بومی اندروید جهت صدور و مدیریت حرفه‌ای پیش‌فاکتور و فاکتور فروش، مشتریان و حساب‌های بانکی با خروجی استاندارد PDF. | [مخزن](https://github.com/mehdisayyadnahed/factor-hamrah) |
 | **سرور انتقال فایل اندروید** | سیستم و شبکه | `Kotlin` `SAF` `HTTP` `FTP` `SFTP` | سرور بومی اندروید برای انتقال چندپروتکلی فایل بدون نیاز به اینترنت (HTTP، FTP و SFTP) از طریق USB، هات‌اسپات، وای‌فای و بلوتوث. | [مخزن](https://github.com/mehdisayyadnahed/universal-file-server) |
 | **سی‌تک (پلتفرم فروشگاه و گیمیفیکیشن)** | تجارت الکترونیک | `PHP` `MySQL` `Vanilla JS` `Web Push` | پلتفرم سبک و ماژولار فروشگاهی با گیمیفیکیشن روان‌شناختی، حلقه‌های درگیرسازی کاربر و اتصال به درگاه پرداخت، وب‌پوش و پیامک. | [مخزن](https://github.com/mehdisayyadnahed/sitak) |
-| **پیام‌رسان تک‌فایلی و بدون‌لاگ** | P2P / امنیت و حریم خصوصی | `PHP` `SQLite` `MySQL` `WebRTC` | پیام‌رسان تحت وب تک‌فایلی و خودمیزبان، بدون نیاز به لاگین و بدون ذخیره ردپا (Zero-Log)، با چت رمزنگاری‌شده‌ی سرتاسری و تماس صوتی/تصویری زنده در شبکه محلی. | [مخزن](https://github.com/mehdisayyadnahed/my-mini-messenger) |
+| **پیام‌رسان تک‌فایلی و بدون‌لاگ** | امنیت و حریم خصوصی / P2P | `PHP` `SQLite` `MySQL` `WebRTC` | پیام‌رسان تحت وب تک‌فایلی و خودمیزبان، بدون نیاز به لاگین و بدون ذخیره ردپا (Zero-Log)، با چت رمزنگاری‌شده‌ی سرتاسری و تماس صوتی/تصویری زنده در شبکه محلی. | [مخزن](https://github.com/mehdisayyadnahed/my-mini-messenger) |
 | **ترجمه کتاب The Little Go Book** | ادبیات فنی و مستندسازی | `Go` `Markdown` `Documentation` | ترجمه‌ی کامل، دقیق و باکیفیت کتاب مرجع آموزش سریع زبان برنامه‌نویسی Go اثر کارل سگوئین (Karl Seguin) به زبان فارسی. | [مخزن](https://github.com/mehdisayyadnahed/the-little-go-book) |
 | **ربات تریدر امواج قیمت رمزارز** | ربات فین‌تک و الگوریتم معاملاتی | `Python` `Web API` `Linux` | ربات خودکار تشخیص روندهای قیمتی بازار و اجرای سفارش‌های خرید و فروش الگوریتمی در بیش از ۷ صرافی بین‌المللی و داخلی (بایننس، نوبیتکس و...). | [مخزن](https://github.com/mehdisayyadnahed/crypto-price-wave-trader) |
 | **کلاینت بایگانی پیام‌های تلگرام** | اتوماسیون / کلاینت | `Python` `C++` `Telegram API` | کلاینت اختصاصی تلگرام برای پایش و ذخیره‌ی دائمی تمام پیام‌های ورودی جهت جلوگیری از از دست رفتن داده‌ها در اثر ویرایش یا حذف توسط فرستنده. | [مخزن](https://github.com/mehdisayyadnahed/telegram-auto-forwarder) |
@@ -200,11 +212,23 @@ focus:       [Business Automation, SEO & Ads, Resilient Networks, Web & Android 
 philosophy:  "In today's fast-paced world, I prioritize quality over quantity to build lasting value."
 ```
 
-<div align="center" dir="ltr">
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-| 🧩 +24 Successful Projects | ⏳ +7 Years of Tech & Business Experience |
-|:---:|:---:|
+### 🧩 24+
+**Successful Projects**
 
+</td>
+<td align="center" width="50%">
+
+### ⏳ 7+
+**Years of Tech & Business Experience**
+
+</td>
+</tr>
+</table>
 </div>
 
 ## Academic Journey
@@ -305,7 +329,7 @@ philosophy:  "In today's fast-paced world, I prioritize quality over quantity to
 
 <div align="center" dir="ltr">
 
-<sub>© 2026 · Mehdi Sayyad · <i>Quality over quantity — کیفیت بر کمیت</i></sub>
+<sub dir="ltr">© 2026 · Mehdi Sayyad · <i>Quality over quantity — <span dir="rtl">کیفیت بر کمیت</span></i></sub>
 
 <!-- Footer Banner (Matching Green Terminal Theme) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,35:059669,70:064E3B,100:0A0F0D&height=120&section=footer" alt="Footer Banner" />
