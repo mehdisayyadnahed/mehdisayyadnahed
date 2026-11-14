@@ -64,23 +64,11 @@
 
 <br>
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
+<div align="center" dir="ltr">
 
-### 🧩 ۲۴+
-**پروژه‌ی موفق**
+| 🧩 +۲۴ پروژه‌ی موفق | ⏳ +۷ سال تجربه فنی و تجاری |
+|:---:|:---:|
 
-</td>
-<td align="center" width="50%">
-
-### ⏳ ۷+
-**سال تجربه‌ی فنی و تجاری**
-
-</td>
-</tr>
-</table>
 </div>
 
 ## مسیر آکادمیک
@@ -212,23 +200,11 @@ focus:       [Business Automation, SEO & Ads, Resilient Networks, Web & Android 
 philosophy:  "In today's fast-paced world, I prioritize quality over quantity to build lasting value."
 ```
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
+<div align="center" dir="ltr">
 
-### 🧩 24+
-**Successful Projects**
+| 🧩 +24 Successful Projects | ⏳ +7 Years of Tech & Business Experience |
+|:---:|:---:|
 
-</td>
-<td align="center" width="50%">
-
-### ⏳ 7+
-**Years of Tech & Business Experience**
-
-</td>
-</tr>
-</table>
 </div>
 
 ## Academic Journey
