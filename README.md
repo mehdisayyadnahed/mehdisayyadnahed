@@ -66,7 +66,7 @@
 
 <div align="center" dir="ltr">
 
-| 🧩 ۲۴+ پروژه‌ی موفق | ⏳ ۷+ سال تجربه فنی و تجاری |
+| 🧩 +۲۴ پروژه‌ی موفق | ⏳ +۷ سال تجربه فنی و تجاری |
 |:---:|:---:|
 
 </div>
@@ -202,7 +202,7 @@ philosophy:  "In today's fast-paced world, I prioritize quality over quantity to
 
 <div align="center" dir="ltr">
 
-| 🧩 24+ Successful Projects | ⏳ 7+ Years of Tech & Business Experience |
+| 🧩 +24 Successful Projects | ⏳ +7 Years of Tech & Business Experience |
 |:---:|:---:|
 
 </div>
